@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
