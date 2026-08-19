@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -45,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
