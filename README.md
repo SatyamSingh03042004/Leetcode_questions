@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
