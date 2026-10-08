@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -68,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SatyamSingh03042004/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
